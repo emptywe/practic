@@ -9,15 +9,18 @@
 </head>
 <body>
 
-<h1>{{.Title}}</h1>
+<h1 style="text-align: center">{{.Title}}</h1>
 <hr>
+<ul>
 {{range $i, $paragraph := index .Story }}
-    <p>{{$paragraph}}</p>
+    <li>{{$paragraph}}</li>
 {{end}}
+</ul>
 <hr>
+<ul>
 {{range $i, $option := index .Options }}
-    <p>{{$option.Text}}  <a href="/?block={{$option.Arc}}" class="btn btn-dark">{{$option.Arc}}</a></p>
+    <li>{{$option.Text}}  <a href="/?block={{$option.Arc}}" class="btn btn-dark" style="width: 10em; height: 2em";>{{$option.Arc}}</a></li>
 {{end}}
-
+</ul>
 </body>
 </html>
