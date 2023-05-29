@@ -1,0 +1,16 @@
+mode: set
+cliAndServerSubstr/cmd/httpSrv/srv.go:11.35,17.32 6 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:17.32,19.38 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:19.38,21.4 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:22.3,24.38 3 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:24.38,26.4 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:28.2,28.21 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:31.24,32.11 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:32.11,34.3 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:35.2,35.10 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:41.74,42.23 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:42.23,45.3 2 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:46.2,47.16 2 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:47.16,50.3 2 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:51.2,51.45 1 1
+cliAndServerSubstr/cmd/httpSrv/srv.go:54.13,65.2 9 0

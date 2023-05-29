@@ -1,0 +1,13 @@
+mode: set
+cliAndServerSubstr/cmd/cli/cli.go:11.52,13.16 2 1
+cliAndServerSubstr/cmd/cli/cli.go:13.16,15.3 1 0
+cliAndServerSubstr/cmd/cli/cli.go:16.2,21.16 5 1
+cliAndServerSubstr/cmd/cli/cli.go:21.16,23.3 1 1
+cliAndServerSubstr/cmd/cli/cli.go:25.2,26.22 2 1
+cliAndServerSubstr/cmd/cli/cli.go:26.22,28.3 1 1
+cliAndServerSubstr/cmd/cli/cli.go:29.2,29.23 1 1
+cliAndServerSubstr/cmd/cli/cli.go:32.13,35.18 2 0
+cliAndServerSubstr/cmd/cli/cli.go:35.18,37.3 1 0
+cliAndServerSubstr/cmd/cli/cli.go:38.2,39.16 2 0
+cliAndServerSubstr/cmd/cli/cli.go:39.16,41.3 1 0
+cliAndServerSubstr/cmd/cli/cli.go:42.2,42.49 1 0
